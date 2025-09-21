@@ -20,7 +20,7 @@
 <img width="1155" height="423" alt="image" src="https://github.com/user-attachments/assets/825b21f1-f7df-4d41-90c7-1d11975e21d9" />
 
 
-# 自动精灵：https://zdjl.cc/
+# 附：自动精灵  https://zdjl.cc/
 
 多端支持；自动化脚本制作；
 
